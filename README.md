@@ -32,8 +32,11 @@ Technologies Used:
 ## The following technologies are used in this project:
 
 Python - for data analysis and machine learning
+
 Excel - for data cleaning, transformation, and visualization
+
 Tableau - for data reporting
+
 
 
 ## Conclusion:
