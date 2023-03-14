@@ -3,7 +3,7 @@
 
 The banking institution needs to gain actionable insights into mortgage-backed securities, geographic business investment, and real estate analysis. The mortgage bank would like to identify potential monthly mortgage expenses for each region based on monthly family income and rental of real estate. A statistical model needs to be created to predict the potential demand in dollars amount of loans for each region in the USA. Also, there is a need to create a dashboard that would refresh periodically post-data retrieval from the agencies. The dashboard must demonstrate relationships and trends for the key metrics, such as the number of loans, average rental income, monthly mortgage and owner's cost, family income vs. mortgage cost comparison across different regions.
 
-Dataset Description:
+## Dataset Description:
 
 The dataset contains the following variables:
 
@@ -20,7 +20,7 @@ Household Income: Total income of people residing in the household
 Family Income: Total income of people related to the householder
 Objectives:
 
-The objectives of this project are:
+## The objectives of this project are:
 
 To create a statistical model to predict the potential demand in dollars amount of loans for each region in the USA based on monthly family income and rental of real estate.
 To create a dashboard that would refresh periodically post-data retrieval from the agencies.
@@ -29,11 +29,13 @@ To analyze the dataset using exploratory data analysis techniques, such as data 
 To perform correlation analysis for all the relevant variables by creating a heatmap.
 Technologies Used:
 
-The following technologies are used in this project:
+## The following technologies are used in this project:
 
-R - for data analysis and machine learning
+Python - for data analysis and machine learning
 Excel - for data cleaning, transformation, and visualization
 Tableau - for data reporting
-Conclusion:
+
+
+## Conclusion:
 
 In conclusion, this project aims to gain actionable insights into mortgage-backed securities, geographic business investment, and real estate analysis. A statistical model has been created to predict the potential demand in dollars amount of loans for each region in the USA based on monthly family income and rental of real estate. A dashboard has been created that would refresh periodically post-data retrieval from the agencies. The dashboard demonstrates relationships and trends for the key metrics such as the number of loans, average rental income, monthly mortgage and owner's cost, family income vs. mortgage cost comparison across different regions. The dataset has been analyzed using exploratory data analysis techniques, such as data visualization, to gain insights into the population density, age demographics, and debt analysis. Finally, correlation analysis has been performed for all the relevant variables by creating a heatmap. The project used R for data analysis and machine learning, Excel for data cleaning, transformation, and visualization, and Tableau for data reporting.
